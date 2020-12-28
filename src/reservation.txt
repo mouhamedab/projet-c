@@ -1,0 +1,10 @@
+brebie_grand_taille 1 120 21449897 male
+brebie_petite_taille 2 80 99924858 male
+brebie_grand_taille 1 120 21449897 male
+brebie_petite_taille 2 80 99924858 male
+brebie_grand_taille 1 120 21449897 male
+brebie_grand_taille 1 120 97924858 male
+brebie_taille_moyenne 1 100 99924858 male
+veaux_petite_taille 1 80 97924858 male
+veaux_taille_moyenne 1 100 21449897 male
+veaux_grand_taille 1 120 93407003 male

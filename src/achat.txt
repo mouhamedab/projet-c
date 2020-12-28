@@ -1,0 +1,6 @@
+brebie_petite_taille 5122 80
+brebie_grand_taille 7273 120
+brebie_taille_moyenne 766 100
+veaux_petite_taille 267 80
+veaux_grand_taille 115 120
+veaux_taille_moyenne 118 100
