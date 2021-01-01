@@ -1,0 +1,7 @@
+100 Male Brebie 20/12/2020 1
+300 Male Brebie 20/12/2020 1
+400 Male Brebie 20/12/2020 1
+600 Male Brebie 30/12/2020 2
+500 Male Brebie 1/10/2020 3
+200 Male Brebie 30/12/2020 200
+250 Femelle Veaux 2/12/2020 70
